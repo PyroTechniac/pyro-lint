@@ -4,5 +4,11 @@
     "author": "Gryffon Bellish <owenbellish@gmail.com>",
     "license": "MIT",
     "description": "A shareable lint config",
-    "main": "index.js"
+    "main": "index.js",
+    "peerDependencies": {
+        "eslint": "^5.15.0"
+    },
+    "devDependencies": {
+        "eslint": "^5.15.0"
+    }
 }
