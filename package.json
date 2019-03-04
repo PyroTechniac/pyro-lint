@@ -1,0 +1,8 @@
+{
+    "name": "pyro-lint",
+    "version": "0.0.1",
+    "author": "Gryffon Bellish <owenbellish@gmail.com>",
+    "license": "MIT",
+    "description": "A shareable lint config",
+    "main": "index.js"
+}
