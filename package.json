@@ -1,5 +1,5 @@
 {
-    "name": "pyro-lint",
+    "name": "eslint-config-pyro",
     "version": "0.0.1",
     "author": "Gryffon Bellish <owenbellish@gmail.com>",
     "license": "MIT",
