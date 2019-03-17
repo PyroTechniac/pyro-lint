@@ -6,9 +6,9 @@
     "description": "A shareable lint config",
     "main": "index.js",
     "peerDependencies": {
-        "eslint": "^5.15.0"
+        "eslint": "^5.15.2"
     },
     "devDependencies": {
-        "eslint": "^5.15.0"
+        "eslint": "^5.15.2"
     }
 }
